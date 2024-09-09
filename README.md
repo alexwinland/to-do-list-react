@@ -1,6 +1,6 @@
 ## To Do List com React: Organize sua vida com estilo! 
 
-<img src"public/Projeto.png">
+<img src="public/Projeto.png">
 
 Cansado de usar aquelas listas de tarefas sem graça?  Esse projeto te ajuda a criar uma lista moderna, funcional e super personalizável, usando o poder do React! 
 
