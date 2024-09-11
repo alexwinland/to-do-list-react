@@ -1,4 +1,4 @@
-## To Do List com React: Organize sua vida com estilo! 
+# To Do List com React: Organize sua vida com estilo! 
 
 <img src="public/Projeto.png">
 
